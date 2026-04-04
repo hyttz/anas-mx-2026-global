@@ -1,5 +1,3 @@
-,Germany,China,UK,USA
-Hap_1,		2,	5,	3,	81
-Hap_2,		0,	0,	0,	1
-Hap_3,		0,	0,	0,	1
-Hap_4,		0,	1,	0,	0
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b3c2dd273f100b9655d94967364260b19bc2ad0e0a27ae7457302a2642f1a13
+size 104
